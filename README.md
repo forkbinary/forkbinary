@@ -100,13 +100,13 @@
 ## 🔗 Connect with Me
 <p align="center">
  <a href="mailto:forkbinary@gmail.com">
-    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/gmail.png" alt="Gmail" width="40" />
+    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/gmail.png" alt="Gmail" width="25" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/forkbinary">
-    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/linkedin.png" alt="LinkedIn" width="40" />
+    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/linkedin.png" alt="LinkedIn" width="25" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://youtube.com/@forkbinary">
-    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/youtube.png" alt="YouTube" width="40" />
+    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/youtube.png" alt="YouTube" width="25" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tiktok.com/@fork.binary">
     <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/tik-tok.png" alt="TikTok" width="40" />
