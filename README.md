@@ -103,9 +103,9 @@
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="www.x.com/forkbinary">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/X.svg" alt="X" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.youtube.com/@forkbinary">
+  <a href="https://youtube.com/@forkbinary?si=9EOrm0HfxXR4Mv4r">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:forkbinary@gmail.com">
