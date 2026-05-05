@@ -102,7 +102,7 @@
   <a href="https://www.linkedin.com/in/forkbinary?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="www.x.com/forkbinary">
+  <a href="https://x.com/forkbinary">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/X.svg" alt="X" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://youtube.com/@forkbinary?si=9EOrm0HfxXR4Mv4r">
