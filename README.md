@@ -99,23 +99,23 @@
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/forkbinary">
-    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/instagram.png"alt="Instagram" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://tiktok.com/@fork.binary">
-    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/tik-tok.png" alt="LinkedIn" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/forkbinary">
-    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/twitter.png" alt="Twitter" width="40" />
+ <a href="mailto:forkbinary@gmail.com">
+    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/gmail.png" alt="Gmail" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/forkbinary">
     <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/linkedin.png" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://youtube.com/@forkbinary">
+<a href="https://youtube.com/@forkbinary">
     <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/youtube.png" alt="YouTube" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:forkbinary@gmail.com">
-    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/gmail.png" alt="Gmail" width="40" />
+  <a href="https://tiktok.com/@fork.binary">
+    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/tik-tok.png" alt="TikTok" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://x.com/forkbinary">
+    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/twitter.png" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/forkbinary">
+    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/instagram.png"alt="Instagram" width="40" />
   </a>
 </p>
 
@@ -123,9 +123,6 @@
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
-<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
-
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" alt="Bottom Line" width="100%" />
 </div>
-
