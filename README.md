@@ -102,9 +102,10 @@
   <a href="https://www.linkedin.com/in/forkbinary?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://x.com/forkbinary">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/X.svg" alt="X" width="40" />
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/forkbinary" target="_blank">
+  <img src="https://img.icons8.com/ios-filled/50/ffffff/x-for-twitter.png" alt="X" width="40" height="40" />
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://youtube.com/@forkbinary?si=9EOrm0HfxXR4Mv4r">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
