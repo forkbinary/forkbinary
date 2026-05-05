@@ -109,13 +109,13 @@
     <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/youtube.png" alt="YouTube" width="25" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tiktok.com/@fork.binary">
-    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/tik-tok.png" alt="TikTok" width="40" />
+    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/tik-tok.png" alt="TikTok" width="25" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://x.com/forkbinary">
-    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/twitter.png" alt="Twitter" width="40" />
+    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/twitter.png" alt="Twitter" width="25" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/forkbinary">
-    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/instagram.png"alt="Instagram" width="40" />
+    <img src="https://raw.githubusercontent.com/forkbinary/Social-icons-/main/instagram.png"alt="Instagram" width="25" />
   </a>
 </p>
 
